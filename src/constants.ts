@@ -1,14 +1,14 @@
 export const LEVEL_CONFIG = {
-  1: { pairs: 4, time: 60, grid: [2, 4] },
-  2: { pairs: 6, time: 55, grid: [3, 4] },
-  3: { pairs: 8, time: 50, grid: [4, 4] },
-  4: { pairs: 10, time: 45, grid: [4, 5] },
-  5: { pairs: 12, time: 40, grid: [4, 6] },
-  6: { pairs: 15, time: 35, grid: [5, 6] },
-  7: { pairs: 18, time: 30, grid: [6, 6] },
-  8: { pairs: 21, time: 25, grid: [6, 7] },
-  9: { pairs: 24, time: 20, grid: [6, 8] },
-  10: { pairs: 28, time: 15, grid: [7, 8] },
+  1: { pairs: 4, time: 90, grid: [2, 4] },
+  2: { pairs: 6, time: 90, grid: [3, 4] },
+  3: { pairs: 8, time: 90, grid: [4, 4] },
+  4: { pairs: 10, time: 90, grid: [4, 5] },
+  5: { pairs: 12, time: 90, grid: [4, 6] },
+  6: { pairs: 15, time: 90, grid: [5, 6] },
+  7: { pairs: 18, time: 90, grid: [6, 6] },
+  8: { pairs: 21, time: 90, grid: [6, 7] },
+  9: { pairs: 24, time: 90, grid: [6, 8] },
+  10: { pairs: 28, time: 90, grid: [7, 8] },
 };
 
 export const EMOJIS = [
